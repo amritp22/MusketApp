@@ -69,35 +69,35 @@ Musket is a full-stack museum booking platform that enables users to explore, bo
 ---
 
 ## 📸 Screenshots
-
-> Replace the image paths with your actual paths (e.g., `/screenshots/registration.png`)
+### 📝 Home Page  
+![Registration](snapshots/combined_home_gallery.png)
 
 ### 📝 Registration Page  
-![Registration](screenshots/registration.png)
-
-### 🔑 Login Page  
-![Login](screenshots/login.png)
+![Registration](snapshots/register.png)
 
 ### 🏛️ Museum Listing  
-![Museum Listing](screenshots/museum-list.png)
+![Museum Listing](snapshots/ratings.png)
 
 ### 🧾 Booking Form  
-![Booking Form](screenshots/booking-form.png)
+![Booking Form](snapshots/bookingForm.png)
 
 ### 🎫 QR Code Ticket  
-![QR Code Ticket](screenshots/qr-ticket.png)
+![QR Code Ticket](snapshots/qrTicket.png)
 
 ### 📋 User Booking History  
-![Booking History](screenshots/booking-history.png)
+![Booking History](snapshots/userBookingHistory.png)
 
-### ⭐ Museum Rating  
-![Museum Rating](screenshots/rate-museum.png)
+### ⭐ Museum Submit Rating  
+![Museum Rating](snapshots/submitRating.png)
 
-### 🛠️ Admin Panel  
-![Admin Panel](screenshots/admin-panel.png)
+### 🛠️ Admin Panel- View All Bookings  
+![Admin Panel](snapshots/allBookings.png)
+
+### 🛠️ Admin Panel- Publish Museum  
+![Admin Panel](snapshots/publishMuseum.png)
 
 ### 📷 QR Code Scanner (Admin)  
-![QR Code Scanner](screenshots/qr-scanner.png)
+![QR Code Scanner](snapshots/qrScanning.png)
 
 ---
 
